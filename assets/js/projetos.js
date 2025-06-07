@@ -122,7 +122,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Mudança de projeto? Ada company</p>
+          <p>Mudança de projeto: Ada company</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
