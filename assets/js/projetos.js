@@ -8,7 +8,7 @@ function projetos(section) {
           <h3>Projeto interdisciplinar 1° semestre</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/portifolio.PNG"
+              src="./assets/images/portifolio.png"
               alt="GIF do projeto Orange Evolution."
             />
             <div class="buttons">
@@ -50,7 +50,7 @@ function projetos(section) {
           <h3>Projeto interdisciplinar 2° semestre</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/portifolio.PNG"
+              src="./assets/images/portifolio.png"
               alt="Imagem tema do projeto de desafio de código."
             />
             <div class="buttons">
@@ -91,7 +91,7 @@ function projetos(section) {
         <div class="card">
           <h3>Projeto interdisciplinar 3° semestre</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/ada1.PNG" alt="Imagem do projeto." />
+            <img src="./assets/images/ada1.png" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com" target="_blank" title="Repositório no Github">
                 <svg
@@ -128,7 +128,7 @@ function projetos(section) {
         <div class="card">
           <h3>Projeto interdisciplinar 4° semestre</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/ada2.PNG" alt="Imagem do projeto." />
+            <img src="./assets/images/ada2.png" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com" target="_blank" title="Repositório no Github">
                 <svg
@@ -165,7 +165,7 @@ function projetos(section) {
         <div class="card">
           <h3>Doctor Care</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/portifolio.PNG" alt="Imagem do projeto." />
+            <img src="./assets/images/portifolio.png" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com" target="_blank" title="Repositório no Github">
                 <svg
@@ -202,7 +202,7 @@ function projetos(section) {
         <div class="card">
           <h3>Meu Portifólio</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/portifolio.PNG" alt="Imagem do projeto." />
+            <img src="./assets/images/portifolio.png" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com" target="_blank" title="Repositório no Github">
                 <svg
