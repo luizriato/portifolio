@@ -42,9 +42,9 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Plataforma de estudos desenvolvida na Hackathon do Programa de Formação 4 da FCamara.
+            Início do curso de DSM da Fatec Votorantim, sistema Macroprotech
           </p>
-          <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
+          <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
           <h3>Projeto interdisciplinar 2° semestre</h3>
@@ -84,7 +84,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Desafio promovido pela Rocketseat com 21 projetos diferentes.
+           Continuação do desenvolvimento do sistema Macroprotech
           </p>
           <p>HTML - CSS - JS</p>
         </div>
@@ -122,7 +122,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Páginas de links desenvolvida para cliente.</p>
+          <p>Mudança de projeto? Ada company</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
@@ -159,7 +159,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Página de contato para consultas desenvolvida para cliente.</p>
+          <p>Continuação do desenvolvimento da Ada Company</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
@@ -234,8 +234,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            O presente site que desenvolvi para apresentar a mim e meus
-            projetos.
+           Site para apresentação pessoal e de projetos desenvolvidos
           </p>
           <p>HTML - CSS - JS</p>
         </div>
