@@ -5,14 +5,14 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
         <div class="card">
-          <h3>Orange Evolution</h3>
+          <h3>Projeto interdisciplinar 1° semestre</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/orange-evolution.gif"
+              src="./assets/images/portifolio.PNG"
               alt="GIF do projeto Orange Evolution."
             />
             <div class="buttons">
-              <a href="https://github.com/squad-30/OrangeEvolution-Squad30" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -26,7 +26,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://orangeevolution-squad30.up.railway.app" target="_blank" title="Ver Projeto">
+              <a href="" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -47,14 +47,14 @@ function projetos(section) {
           <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
         </div>
         <div class="card">
-          <h3>Desafio 21 dias de código</h3>
+          <h3>Projeto interdisciplinar 2° semestre</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/desafio-de-codigo.jpg"
+              src="./assets/images/portifolio.PNG"
               alt="Imagem tema do projeto de desafio de código."
             />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat" target="_blank" title="Repositório no Github">
+              <a href="https://github.com" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -89,11 +89,11 @@ function projetos(section) {
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Nutricionista Roberto - Links</h3>
+          <h3>Projeto interdisciplinar 3° semestre</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/roberto-links.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/ada1.PNG" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/robertoovidionutri-bio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -107,7 +107,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://robertoovidionutri-bio.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://adacompany.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -126,11 +126,11 @@ function projetos(section) {
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Nutricionista Roberto - Página de consulta</h3>
+          <h3>Projeto interdisciplinar 4° semestre</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/roberto-consulta.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/ada2.PNG" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/robertoovidionutri-consulta" target="_blank" title="Repositório no Github">
+              <a href="https://github.com" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -144,7 +144,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://robertoovidionutri-consulta.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://newadacompany.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -165,9 +165,9 @@ function projetos(section) {
         <div class="card">
           <h3>Doctor Care</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/doctorcare.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/portifolio.PNG" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/doctorcare" target="_blank" title="Repositório no Github">
+              <a href="https://github.com" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -181,7 +181,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.github.io/doctorcare/" target="_blank" title="Ver Projeto">
+              <a href="" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -202,9 +202,9 @@ function projetos(section) {
         <div class="card">
           <h3>Meu Portifólio</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/portifolio.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/portifolio.PNG" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/portifolio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -218,7 +218,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://portifolio-luizriato.vercel.app" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -240,37 +240,6 @@ function projetos(section) {
           <p>HTML - CSS - JS</p>
         </div>
         <div></div>
-        <div class="card">
-          <h3>Em breve...</h3>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            width="24"
-            height="24"
-          >
-            <path fill="none" d="M0 0h24v24H0z" />
-            <path
-              d="M5 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm14 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-7 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
-              fill="rgba(255,255,255,1)"
-            />
-          </svg>
-          <p>
-            Aprendizado constante! <br />
-            Em breve muitos outros projetos.
-          </p>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            width="24"
-            height="24"
-          >
-            <path fill="none" d="M0 0H24V24H0z" />
-            <path
-              d="M21 3v2c0 9.627-5.373 14-12 14H5.243C5.08 19.912 5 20.907 5 22H3c0-1.363.116-2.6.346-3.732C3.116 16.974 3 15.218 3 13 3 7.477 7.477 3 13 3c2 0 4 1 8 0zm-8 2c-4.418 0-8 3.582-8 8 0 .362.003.711.01 1.046 1.254-1.978 3.091-3.541 5.494-4.914l.992 1.736C8.641 12.5 6.747 14.354 5.776 17H9c6.015 0 9.871-3.973 9.997-11.612-1.372.133-2.647.048-4.22-.188C13.627 5.027 13.401 5 13 5z"
-              fill="rgba(255,255,255,1)"
-            />
-          </svg>
-        </div>
         <div></div>
       </div>
     </div>`;
